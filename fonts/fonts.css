@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Estilo Script Regular";
+  src:
+    local("Estilo Script Regular"),
+    url("Estilo Script Regular/Estilo Script Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Didact Gothic";
+  src:
+    local("Didact Gothic"),
+    local("Didact Gothic Regular"),
+    url("Didact Gothic Regular/DidactGothic-Regular.ttf") format("truetype");
+}
